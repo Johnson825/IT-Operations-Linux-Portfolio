@@ -44,24 +44,33 @@ My current career focus is IT Operations Analysis, with a long-term goal of spec
 My technical development is focused on four core platforms that support my transition into IT Operations and Linux Systems Administration.
 
 ### 1. ServiceNow – IT Service Management
-IT Operations Priority
-- Incident management and ticket documentation
-- Incident prioritization and categorization
-- Escalation procedures and resolution tracking
+IT Operations
+- Incident management
+- Ticket documentation
+- Prioritization and escalation
 - IT service management workflows
 
 ### 2. Grafana – Infrastructure Monitoring
-- Infrastructure and system monitoring
-- Dashboard development and visualization
-- Alert monitoring and interpretation
-- Performance metrics and anomaly identification
+IT Operations
+- Infrastructure monitoring
+- Dashboard development
+- Alert interpretation
+- Performance analysis
 
 ### 3. KodeKloud – Linux Systems Administration
+Linux development
 - Linux server administration fundamentals
 - Command-line operations
 - User and permission management
 - System services and log management
 - Hands-on infrastructure administration labs
+
+# LabEx
+Linux practice
+-Linux command-line exercises
+- File and permission management
+- System administration practice
+- Troubleshooting exercises
 
 # Certifications:
 
