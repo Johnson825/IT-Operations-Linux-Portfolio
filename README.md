@@ -58,7 +58,7 @@ IT Operations
 - Performance analysis
 
 ### 3. KodeKloud – Linux Systems Administration
-Linux development
+Linux Development
 - Linux server administration fundamentals
 - Command-line operations
 - User and permission management
@@ -66,7 +66,8 @@ Linux development
 - Hands-on infrastructure administration labs
 
 # LabEx
-Linux practice
+Linux Practice
+
 -Linux command-line exercises
 - File and permission management
 - System administration practice
