@@ -1,4 +1,4 @@
-### IT Operations & Linux Systems Administration Portfolio
+# IT Operations & Linux Systems Administration Portfolio
 
 Welcome to my professional IT portfolio. This repository documents my technical development, hands-on projects, and practical experience in IT operations, infrastructure monitoring, incident management, and Linux systems administration.
 
