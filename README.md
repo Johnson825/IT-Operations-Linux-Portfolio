@@ -67,9 +67,7 @@ Linux Development
 
 # LabEx
 Linux Practice
-
-
--Linux command-line exercises
+- Linux command-line exercises
 - File and permission management
 - System administration practice
 - Troubleshooting exercises
