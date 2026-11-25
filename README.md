@@ -65,7 +65,7 @@ Linux Development
 - System services and log management
 - Hands-on infrastructure administration labs
 
-### 4. LabEx - Linux Practice and Troubleshooting
+### 4. LabEx – Linux Practice and Troubleshooting
 Linux Practice
 - Linux command-line exercises
 - File and permission management
