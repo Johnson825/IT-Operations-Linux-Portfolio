@@ -1,5 +1,6 @@
 # IT-Operations-Linux-Portfolio
 Professional portfolio showcasing IT operations, incident management, systems monitoring, troubleshooting, and Linux administration.
+
 Technical Skills
 - IT Operations and Incident Management
 - Systems Monitoring and Performance Analysis
