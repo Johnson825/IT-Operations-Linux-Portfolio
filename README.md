@@ -62,4 +62,7 @@ My technical development is focused on three core platforms that support my tran
 - System services and log management
 - Hands-on infrastructure administration labs
 
-Linux | ServiceNow | GitHub | LabEx
+# Certifications:
+
+- CompTIA Security+ CE
+- Microsoft Azure Fundamentals (AZ-900)
