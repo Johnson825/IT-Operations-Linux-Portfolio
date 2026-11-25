@@ -39,11 +39,12 @@ My current career focus is IT Operations Analysis, with a long-term goal of spec
 - Microsoft Excel
 - Technical Procedures and Documentation
 
-# Professional Development Focus:
+# Professional Development Platforms:
 
-My technical development is focused on three core platforms that support my transition into IT Operations and Linux Systems Administration.
+My technical development is focused on four core platforms that support my transition into IT Operations and Linux Systems Administration.
 
 ### 1. ServiceNow – IT Service Management
+IT Operations Priority
 - Incident management and ticket documentation
 - Incident prioritization and categorization
 - Escalation procedures and resolution tracking
