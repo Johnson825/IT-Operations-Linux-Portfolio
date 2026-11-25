@@ -4,7 +4,7 @@ Welcome to my professional IT portfolio. This repository documents my technical 
 
 My current career focus is IT Operations Analysis, with a long-term goal of specializing in Linux Systems Administration and Infrastructure Operations.
 
-# Professional Focus:
+## Professional Focus:
 
 - IT Operations and Production Monitoring
 - Incident Management and Documentation
@@ -14,9 +14,9 @@ My current career focus is IT Operations Analysis, with a long-term goal of spec
 - Linux Systems Administration
 - Infrastructure Monitoring and Automation
 
-# Technical Skills:
+## Technical Skills:
 
-# IT Operations
+### IT Operations
 
 - Operational Monitoring
 - Incident Tracking and Documentation
@@ -24,7 +24,7 @@ My current career focus is IT Operations Analysis, with a long-term goal of spec
 - Anomaly Identification and Escalation
 - Technical Reporting
 
-# Linux Systems Administration
+### Linux Systems Administration
 
 - Linux Command Line Fundamentals
 - File and Directory Management
@@ -32,14 +32,14 @@ My current career focus is IT Operations Analysis, with a long-term goal of spec
 - System Logs and Service Management
 - Linux Troubleshooting
 
-# Technical Documentation and Analysis
+### Technical Documentation and Analysis
 
 - Operational Reporting
 - Data Validation
 - Microsoft Excel
 - Technical Procedures and Documentation
 
-# Professional Development Platforms:
+## Professional Development Platforms:
 
 My technical development is focused on four core platforms that support my transition into IT Operations and Linux Systems Administration.
 
@@ -72,19 +72,19 @@ Linux Practice
 - System administration practice
 - Troubleshooting exercises
 
-# Certifications:
+## Certifications:
 
 - CompTIA Security+ CE
 - Microsoft Azure Fundamentals (AZ-900)
 
-# Tools and Technologies:
+## Tools and Technologies:
 
 ServiceNow | Grafana | KodeKloud | LabEx | Microsoft Excel | Microsoft Word 
 
-# Featured Projects:
+## Featured Projects:
 
 Hands-on projects demonstrating IT operations, infrastructure monitoring, incident management, data quality, and Linux systems administration will be documented here as they are completed.
 
-# Career Development:
+## Career Development:
 
 This portfolio reflects my ongoing development as an IT Operations professional and my long-term commitment to Linux Systems Administration, infrastructure monitoring, and automation.
