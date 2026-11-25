@@ -76,3 +76,15 @@ Linux Practice
 
 - CompTIA Security+ CE
 - Microsoft Azure Fundamentals (AZ-900)
+
+# Tools and Technologies:
+
+Linux | ServiceNow | Grafana | KodeKloud | LabEx | GitHub | Microsoft Excel
+
+# Featured Projects:
+
+Hands-on projects demonstrating IT operations, infrastructure monitoring, incident management, data quality, and Linux systems administration will be documented here as they are completed.
+
+# Career Development:
+
+This portfolio reflects my ongoing development as an IT Operations professional and my long-term commitment to Linux Systems Administration, infrastructure monitoring, and automation.
