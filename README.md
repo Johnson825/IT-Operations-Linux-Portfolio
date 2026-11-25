@@ -79,7 +79,7 @@ Linux Practice
 
 # Tools and Technologies:
 
-Linux | ServiceNow | Grafana | KodeKloud | LabEx | GitHub | Microsoft Excel
+ServiceNow | Grafana | KodeKloud | LabEx | Microsoft Excel | Microsoft Word 
 
 # Featured Projects:
 
