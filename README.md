@@ -39,7 +39,7 @@ My current career focus is IT Operations Analysis, with a long-term goal of spec
 - Microsoft Excel
 - Technical Procedures and Documentation
 
-# ## Professional Development Focus
+# Professional Development Focus:
 
 My technical development is focused on three core platforms that support my transition into IT Operations and Linux Systems Administration.
 
